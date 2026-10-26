@@ -2,7 +2,7 @@ CPU Scheduling Algoritmaları Simülasyonu
 Ödev Raporu
 
 1. GİRİŞ
-Bu ödevde işletim sistemlerinde kullanılan CPU zamanlama algoritmalarının çalışma mantığı incelenmiştir. 
+İşletim sistemlerinde kullanılan CPU zamanlama algoritmalarının çalışma mantığı incelenmiştir. 
 Farklı zamanlama algoritmaları C++ programlama dili kullanılarak simüle edilmiştir.
 
 2. KULLANILAN TEKNOLOJİLER
@@ -28,5 +28,3 @@ Her algoritma için bekleme süresi, çevrim süresi ve bu değerlerin ortalamal
 Algoritmaların performans farkları gözlemlenmiş ve CPU zamanlama mantığı daha iyi anlaşılmıştır.
 
 
-Gülser Güralp 
-20232013040
