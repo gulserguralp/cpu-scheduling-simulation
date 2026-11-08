@@ -51,3 +51,7 @@ Program `case1.csv` dosyasını çalıştığı klasörden okur, bu yüzden repo
 | Round Robin (q=4) | 574.15 | 584.65 |
 
 Bu veri setinde SJF ailesi en düşük ortalama bekleme süresini verir. SRTF, SJF'nin non-preemptive haline göre biraz daha iyidir. Round Robin en yüksek ortalama bekleme süresine sahiptir.
+
+## Rapor
+
+Ders kapsamında hazırlanan rapor: [docs/isletim-sistemleri-rapor.docx](docs/isletim-sistemleri-rapor.docx)
